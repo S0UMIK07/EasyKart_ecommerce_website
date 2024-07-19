@@ -25,7 +25,6 @@ Developed a robust Ecommerce website with advanced backend functionality. Succes
 - **Tools:** NetBeans IDE, Maven
 - **Server:** Deployed on Tomcat Server (localhost)
 
-## Installation
 ## Setup Instructions
 
 1. Clone the repository to your local machine.
@@ -63,8 +62,6 @@ These steps ensure compatibility with Tomcat version 10 and above. If you encoun
 ## Contributors
 
 - [Soumik Maity](https://github.com/S0UMIK07)
-
-## License
 
 ## License
 
